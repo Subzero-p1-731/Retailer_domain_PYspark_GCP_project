@@ -19,6 +19,6 @@ options:
 
 substitutions:
   _DAGS_DIRECTORY: "gcp-retailer-project/workflows/"
-  _DAGS_BUCKET: "  us-central1-composer-demo-1-27e27671-bucket"
-  _DATA_DIRECTORY: "data/"
+  _DAGS_BUCKET: "us-central1-composer-demo-1-27e27671-bucket"
+  _DATA_DIRECTORY: "gcp-retailer-project/data/"
   
