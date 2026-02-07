@@ -21,3 +21,4 @@ substitutions:
   _DAGS_DIRECTORY: "workflows/"
   _DAGS_BUCKET: "  us-central1-composer-demo-1-27e27671-bucket"
   _DATA_DIRECTORY: "data/"
+  
