@@ -8,7 +8,7 @@ steps:
   - name: 'python'
     entrypoint: python
     args:
-      - "utils/add_dags_to_composer.py"
+      - "gcp-retailer-project/utils/add_dags_to_composer.py"
       - "--dags_directory=${_DAGS_DIRECTORY}"
       - "--dags_bucket=${_DAGS_BUCKET}"
       - "--data_directory=${_DATA_DIRECTORY}"
